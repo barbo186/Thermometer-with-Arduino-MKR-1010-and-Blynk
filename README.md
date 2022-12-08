@@ -1,6 +1,10 @@
   >Thermometer with Arduino MKR-1010 and Blynk.
   
   A DH11 sensor is used for this project.
+  ## Virtual Pin list:
+  - V1 (Temperature)
+  - V2 (Humidity)
+  
   ## Libraries
   - DHT Library.
   - WiFiNINA Library.
@@ -23,8 +27,8 @@
   ## Wiring diagram
  <a href="https://ibb.co/0hXTRpx"><img src="https://i.ibb.co/Wg3Z4NL/Wiring-diagram.png" alt="Wiring-diagram" border="1"></a>
  
- Note: Connections vary according to the type of sensor being used.
+ **Note:** Connections vary according to the type of sensor being used.
  
  # Author
 
-👤 **barbo186**
+**barbo186**
