@@ -29,6 +29,4 @@
  
  **Note:** Connections vary according to the type of sensor being used.
  
- # Author
-
-**barbo186**
+**MADE BY barbo186**
