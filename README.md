@@ -1,6 +1,6 @@
   >Thermometer with Arduino MKR-1010 and Blynk.
   
-  A DH11 sensor is used for this project.
+  A DHT11 sensor is used for this project.
   ## Virtual Pin list:
   - V1 (Temperature)
   - V2 (Humidity)
